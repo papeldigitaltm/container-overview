@@ -10,19 +10,19 @@ The ECM Containers v1.0 offering provides a true hybrid platform:
 Review the readme that is provided with each Docker image for details about prerequisites and setup information. 
 The ECM Container offering provides the following Docker images with built-in monitoring and logging and security-hardened capabilities:
 
-#### `CPE` [IBM Content Platform Engine](https://github.ibm.com/ecm-container-service/cpe-docker)
+#### `CPE` [IBM Content Platform Engine](https://github.com/ibm-ecm/container-cpe)
 > IBM® Content Platform Engine (CPE) container is a Docker image that enables you to quickly deploy IBM Content Platform Engine without a traditional software installation.
  
-#### `CSS` [IBM Content Search Services](https://github.ibm.com/ecm-container-service/css-docker)
+#### `CSS` [IBM Content Search Services](https://github.com/ibm-ecm/container-css)
 > IBM® Content Search Services container is a Docker image that enables you to quickly deploy IBM Content Search Services cwithout a traditional software installation.
 
-#### `ICN` [IBM Content Navigator](https://github.ibm.com/ecm-container-service/navigator-docker)
+#### `ICN` [IBM Content Navigator](https://github.com/ibm-ecm/container-icn)
 > IBM® Content Navigator (ICN) container is a Docker image that enables you to quickly deploy IBM Content Navigator to work with your container implementation of IBM Content Platform Engine.
 
-#### `CMIS` [IBM Content Management Interoperability Services](https://github.ibm.com/ecm-container-service/cmis-docker)
+#### `CMIS` [IBM Content Management Interoperability Services](https://github.com/ibm-ecm/container-cmis)
 > IBM® CMIS for Content Manager (IBM CMIS) container is a Docker image that enables you to quickly deploy CMIS without needing to do traditional software install. 
 
-#### `ICM` [IBM Case Manager](https://github.ibm.com/ecm-container-service/ICM-docker)
+#### `ICM` [IBM Case Manager](https://github.com/ibm-ecm/container-icm)
 > IBM® Case Manager (ICM) container is a Docker image that enables you to quickly deploy IBM Case Manager to work with your container implementation of IBM Content Platform Engine.
 
 
