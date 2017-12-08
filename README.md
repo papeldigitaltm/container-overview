@@ -45,7 +45,7 @@ ECM container image: Filenet Content Platform Engine
 For example:
 
 ```
-ibmcorp/filenet_content_platform_engine:tag
+ibmcorp/ecm_earlyadopters_cpe:earlyadopters-gm5.5
 ```
 
 ### 4. Execute docker pull command in your Docker runtime environment.
@@ -59,4 +59,4 @@ e.g.
 docker login -u mydockerid -p mydockerpw
 
 # pull image from Docker Cloud
-docker pull ibmcorp/filenet_content_platform_engine:tag
+docker pull ibmcorp/ecm_earlyadopters_cpe:earlyadopters-gm5.5
