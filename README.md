@@ -14,7 +14,7 @@ The ECM Container offering provides the following Docker images with built-in mo
 > IBM® Content Platform Engine (CPE) container is a Docker image that enables you to quickly deploy IBM Content Platform Engine without a traditional software installation.
  
 #### `CSS` [IBM Content Search Services](https://github.com/ibm-ecm/container-css)
-> IBM® Content Search Services container is a Docker image that enables you to quickly deploy IBM Content Search Services cwithout a traditional software installation.
+> IBM® Content Search Services container is a Docker image that enables you to quickly deploy IBM Content Search Services without a traditional software installation.
 
 #### `ICN` [IBM Content Navigator](https://github.com/ibm-ecm/container-icn)
 > IBM® Content Navigator (ICN) container is a Docker image that enables you to quickly deploy IBM Content Navigator to work with your container implementation of IBM Content Platform Engine.
@@ -49,9 +49,9 @@ ecmcontainers/ecm_earlyadopters_cpe:earlyadopters-gm5.5
 ```
 
 ### 4. Execute docker pull command in your Docker runtime environment.
-Need to login Docker Cloud with `docker login` commnd in advance, and then input your Docker ID for user name and password. Please notice that input Docker ID, instead of the email address.
+Need to login Docker Cloud with `docker login` command in advance, and then input your Docker ID for user name and password. Please notice that input Docker ID, instead of the email address.
 ```
-# input Docker ID for user name instead of email address
+# Prompt for Docker ID for user name instead of email address
 docker login
 or
 docker login -u [Docker ID] -p [Password]
