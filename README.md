@@ -27,7 +27,7 @@ The ECM Container offering provides the following Docker images with built-in mo
 
 
 ## Access ECM Container images in Docker Cloud private repositories
-Need to login Docker Cloud with `docker login` command in advance, and then input your Docker ID for user name and password. Please notice that input Docker ID, instead of the email address.
+Login Docker Cloud with `docker login` command in advance, and then input your Docker ID for user name and enter your password. Please note that the user name is your Docker ID, instead of the email address.
 ```
 # Prompt for Docker ID for user name instead of email address
 docker login
