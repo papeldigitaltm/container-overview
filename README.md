@@ -27,28 +27,6 @@ The ECM Container offering provides the following Docker images with built-in mo
 
 
 ## Access ECM Container images in Docker Cloud private repositories
-
-### 1. Sign up the Docker ID to access Docker Store
-Access Docker Cloud and sign up your Docker ID with one unique Docker ID, Email address and set password.
-https://cloud.docker.com/
-
-### 2. Contact IBM and supply us your Docker ID and the Email address, the ECM container image need to be pulled.
-For example:
-
-```
-Docker ID: mydockerid
-Email address: mydockerid@abc.com
-ECM container image: Filenet Content Platform Engine
-```
-
-### 3. When approved, IBM will assign the Docker ID access permission to ECM Container private repositories, and notice you the image tag information.
-For example:
-
-```
-ecmcontainers/ecm_earlyadopters_cpe:earlyadopters-gm5.5
-```
-
-### 4. Execute docker pull command in your Docker runtime environment.
 Need to login Docker Cloud with `docker login` command in advance, and then input your Docker ID for user name and password. Please notice that input Docker ID, instead of the email address.
 ```
 # Prompt for Docker ID for user name instead of email address
