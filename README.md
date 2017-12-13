@@ -1,6 +1,6 @@
 # ECM Containers
 
-The ECM Containers v1.0 offering provides a true hybrid platform:
+The ECM Containers tech preview offering provides a true hybrid platform:
 - Provides ease of deployment not only on-prem, but also in private and public cloud environments like IBM Cloud, AWS, Azure, and IBM Cloud Private (ICp).
 - Provides a scalable, manageable, upgradeable, and maintainable platform for both on-premise and cloud environments (public and private)
 - Improves return on investmet (ROI) by reducing infrastructure costs and labor costs for maintenance and support
